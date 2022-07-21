@@ -1,2 +1,2 @@
 # Nand2Tetris
-going the projects form Nand2Tetris Book 
+Going through the projects from the Nand2Tetris Book 
